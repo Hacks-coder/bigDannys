@@ -1,0 +1,18 @@
+@import 'tailwindcss';
+@plugin '@tailwindcss/typography';
+@plugin '@tailwindcss/forms';
+
+
+
+
+@theme {
+    /* fonts */
+    --font-title: 'Konkhmer Sleokchher', system-ui;
+    --font-main: 'Roboto Variable', sans-serif;
+
+    /* colors */
+    --color-gold: #FF3D00;
+    --color-black: #000000;
+    --color-white: #FFFFFF;
+    --color-lowWhite: #F7F7F7;
+}
