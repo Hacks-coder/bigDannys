@@ -3,7 +3,7 @@
     
     const navigationLinks = [
         {href: "/home", child: "Home"},
-        {href: "about", child: "About"},
+        {href: "pricing", child: "Pricing"},
         {href: "customer-care", child: "Buy"},
         {href: "services", child: "Services"}
     ]
