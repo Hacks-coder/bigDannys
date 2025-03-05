@@ -4,9 +4,9 @@
 	import Small from "../Texts/Small.svelte";
 	import Title from "../Texts/Title.svelte";
 </script>
-<section class="@container mt-20">
+<section class="@container mt-20 px-5">
     <div class="flex flex-col items-center gap-10 @3xl:flex-row @3xl:gap-15 @3xl:justify-center">
-        <div class="bg-cover bg-center">
+        <div class="bg-cover bg-center order-2 @3xl:order-0">
             <img src="/others/analysis2.png" alt="" class="size-100 @md:size-120 @2xl:size-150 @4xl:size-170">
         </div>
         <div class="space-y-2 @3xl:space-y-5">

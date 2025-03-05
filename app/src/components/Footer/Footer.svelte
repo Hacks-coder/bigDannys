@@ -38,7 +38,7 @@
             {#each text as {title, href}}
                 <div>
                     <a {href}>{title}</a>
-                </div>
+                </div>  
             {/each}       
         </div>
     {/each}

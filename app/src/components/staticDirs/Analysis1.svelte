@@ -4,7 +4,7 @@
 	import Small from "../Texts/Small.svelte";
 	import Title from "../Texts/Title.svelte";
 </script>
-<section class="@container mt-20 ">
+<section class="@container mt-20 px-5">
     <div class="flex flex-col items-center gap-10 @3xl:flex-row @3xl:gap-15 @3xl:justify-center">
         <div class="space-y-2 @3xl:space-y-5">
             <Aqua text = "ANALYTICS" />
